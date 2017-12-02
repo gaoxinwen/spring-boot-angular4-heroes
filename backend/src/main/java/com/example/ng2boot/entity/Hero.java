@@ -3,7 +3,7 @@ package com.example.ng2boot.entity;
 import javax.persistence.*;
 
 /**
- * Description:
+ * Description: Hero Entity
  * Created by Gaoxinwen on 2017/07/17.
  */
 @Entity
